@@ -1,0 +1,40 @@
+img{
+    height:510px;
+    width :400px;
+   border-radius:50%;
+   
+}
+body{
+     background-color: rgb(255, 220, 244);
+}
+
+.raghav{
+    width: 700px;
+    border-radius: 0%;
+}
+
+.busy{
+border-radius: 10px;
+}
+
+.personal{
+    border-radius: 10px;
+}
+.guptaji{
+    width: 200px;
+    height: 200px;
+    border-radius: 0%;
+}
+hr{
+
+    border-color: black;
+    width:1000px;
+    line-height: 200px;
+    border-width: 0.1px;;
+}
+
+
+
+
+
+
